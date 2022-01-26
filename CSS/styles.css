@@ -1,0 +1,128 @@
+body{
+    margin:0px 0px 0px;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+
+}
+.top-container{
+    padding-top: 5%;
+    background-color: #e6ffff;
+    position: relative;
+    
+}
+.middle-container{
+    margin-bottom: 40px;
+
+}
+.bottom-container{
+    background-color: #34cbcb;
+    padding: 45px 0px 45px;
+
+}
+
+h1{
+    margin: 10px auto 0px;
+    font-family: 'Sacramento', cursive;
+    font-size: 5.625rem;
+    color: #66BFBF;
+    line-height: 2;
+}
+h2{
+    font-family: 'PT Sans', sans-serif;
+    font-size: 2.5rem;
+    color: #66BFBF;
+    font-weight: normal;
+}
+h3{
+    font-family: 'PT Sans', sans-serif;
+    color:#11999E;
+}
+a{
+    color:whitesmoke;
+    padding: 40px;
+    text-decoration: none; 
+}
+a:hover{
+    color:#1e7b7b;
+    transition: all .5s ease-in-out;
+}
+p{
+    margin: 0px;
+}
+hr{
+    border-style: dotted none none none;
+    border-color: #BAD7DF;
+    border-width: 8px;
+    height: 2px;
+    width: 5%;
+}
+.Dev{
+    text-decoration: underline;
+}
+.avatar{
+    width: 40%;
+}
+.top-cloud{
+    position:relative;
+    left: 13%;
+    bottom: 5px;
+    width:200px;
+    
+
+}
+.bottom-cloud{
+    position: absolute;
+    
+}
+.mountain{
+    height: 5%;
+    width: 80%;
+}
+.profile{
+    padding: 0px 0px 40px;
+}
+.skill-row{
+    width: 50%;
+    margin: 100px auto 100px;
+    text-align: left;
+    line-height: 2;
+}
+.gcloud{
+
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+}
+.c{
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+}
+.java{
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+}
+.bottom-p{
+    margin-bottom: 40px;
+}
+.btn-ico{
+    width: 3%;
+    position: relative;
+    left: 50px;
+    top: 15px;
+}
+.btn{
+    border-radius: 11px;
+    color: white;
+    background-image:linear-gradient(#11cdd4,#11999e) ;
+    padding: 14px 25px 14px 60px;
+}
+.btn:hover{
+    color: white;
+}
+.copyright{
+    padding: 40px 0px 10px;
+    color: rgb(17, 17, 17);
+    
+}
